@@ -1,207 +1,197 @@
 {
-"status": "ok"
-"feed": {
-"url": "https://techcrunch.com/feed/"
-"title": "TechCrunch"
-"link": "https://techcrunch.com/"
-"author": ""
-"description": "Startup and Technology News"
-"image": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
-}
-"items": [
-{
-"title": "Sundar Pichai warns Google staff more layoffs are coming"
-"pubDate": "2024-01-18 04:23:02"
-"link": "https://techcrunch.com/2024/01/17/sundar-pichai-warns-google-staff-more-layoffs-are-coming/"
-"guid": "https://techcrunch.com/?p=2653751"
-"author": "Ivan Mehta"
-"thumbnail": ""
-"description": " <p>After laying off over 1,000 workers across multiple divisions last week and cutting 100 jobs at YouTube, Google CEO Sundar Pichai sent a memo to its staff warning more layoffs are expected this year. Pichai’s memo said the company will have to make “tough choices” to meet its ambitious goals, as reported by The Verge. […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>After laying off over 1,000 workers across multiple divisions last week and cutting 100 jobs at YouTube, Google CEO Sundar Pichai sent a memo to its staff warning more layoffs are expected this year. Pichai’s memo said the company will have to make “tough choices” to meet its ambitious goals, as reported by The Verge. […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Enterprise"
-"Alphabet"
-"Google"
-"Sundar Pichai"
-]
-}
-{
-"title": "Astrobotic’s lunar lander will burn up in Earth’s atmosphere tomorrow"
-"pubDate": "2024-01-18 03:00:37"
-"link": "https://techcrunch.com/2024/01/17/astrobotics-lunar-lander-will-burn-up-in-earths-atmosphere-tomorrow/"
-"guid": "https://techcrunch.com/?p=2653749"
-"author": "Aria Alamalhodaei"
-"thumbnail": ""
-"description": " <p>Astrobotic’s lunar lander will be reentering Earth’s atmosphere over a remote part of the South Pacific Ocean tomorrow afternoon, bringing to a close the failed moon landing mission. The Peregrine lunar lander is expected to reenter around 4PM EST over an unpopulated stretch of ocean near Fiji, according to coordinates Astrobotic posted in a Wednesday […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>Astrobotic’s lunar lander will be reentering Earth’s atmosphere over a remote part of the South Pacific Ocean tomorrow afternoon, bringing to a close the failed moon landing mission. The Peregrine lunar lander is expected to reenter around 4PM EST over an unpopulated stretch of ocean near Fiji, according to coordinates Astrobotic posted in a Wednesday […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Space"
-"astrobotic"
-"clps"
-"commercial lunar payload services"
-"NASA"
-"peregrine"
-]
-}
-{
-"title": "Astroscale takes the wraps off its $25M orbital refueling craft for Space Force"
-"pubDate": "2024-01-18 01:10:51"
-"link": "https://techcrunch.com/2024/01/17/astroscale-takes-the-wraps-off-its-25m-orbital-refueling-craft-for-space-force/"
-"guid": "https://techcrunch.com/?p=2653721"
-"author": "Devin Coldewey"
-"thumbnail": ""
-"description": " <p>Orbital operations company Astroscale has revealed new details about its approach to refueling satellites in space, as part of a $25.5 million project exploring the concept with the Space Force. Their solution is a bit like a AAA truck traveling at 25,000 MPH. The concept of on-orbit servicing and repair is attractive to anyone who […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>Orbital operations company Astroscale has revealed new details about its approach to refueling satellites in space, as part of a $25.5 million project exploring the concept with the Space Force. Their solution is a bit like a AAA truck traveling at 25,000 MPH. The concept of on-orbit servicing and repair is attractive to anyone who […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Space"
-"Startups"
-"astroscale"
-"isam"
-"osam"
-"Space Force"
-]
-}
-{
-"title": "Unredacted Meta documents reveal ‘historical reluctance’ to protect children"
-"pubDate": "2024-01-18 00:38:46"
-"link": "https://techcrunch.com/2024/01/17/unredacted-meta-documents-reveal-historical-reluctance-to-protect-children-new-mexico-lawsuit/"
-"guid": "https://techcrunch.com/?p=2653716"
-"author": "Morgan Sung"
-"thumbnail": ""
-"description": " <p>Internal Meta documents about child safety have been unsealed as part of a lawsuit filed by the New Mexico Department of Justice against both Meta and its CEO, Mark Zuckerberg. The documents reveal that Meta not only intentionally marketed its messaging platforms to children, but also knew about the massive volume of inappropriate and sexually […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>Internal Meta documents about child safety have been unsealed as part of a lawsuit filed by the New Mexico Department of Justice against both Meta and its CEO, Mark Zuckerberg. The documents reveal that Meta not only intentionally marketed its messaging platforms to children, but also knew about the massive volume of inappropriate and sexually […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Apps"
-"Social"
-"child safety"
-"lawsuit"
-"Mark Zuckerberg"
-"meta"
-"meta lawsuit"
-]
-}
-{
-"title": "International Battery Company powers up with $35M funding to bridge EV gap in India"
-"pubDate": "2024-01-18 00:30:50"
-"link": "https://techcrunch.com/2024/01/17/international-battery-company-funding-ev-india/"
-"guid": "https://techcrunch.com/?p=2652335"
-"author": "Jagmeet Singh"
-"thumbnail": ""
-"description": " <p>International Battery Company, a startup developing lithium-ion battery cells for electric vehicles, has raised $35 million as it plans to bridge the demand-supply gap in the growing EV market in India. Led by RTP Global, the pre-Series A round saw participation from Beenext, Veda VC and various strategic Korean and U.S. investors. It comes ahead […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>International Battery Company, a startup developing lithium-ion battery cells for electric vehicles, has raised $35 million as it plans to bridge the demand-supply gap in the growing EV market in India. Led by RTP Global, the pre-Series A round saw participation from Beenext, Veda VC and various strategic Korean and U.S. investors. It comes ahead […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Startups"
-"Transportation"
-"EV"
-"Exclusive"
-"india"
-"International Battery Company"
-"RTP Global"
-]
-}
-{
-"title": "I spent the morning with the Apple Vision Pro"
-"pubDate": "2024-01-18 00:08:06"
-"link": "https://techcrunch.com/2024/01/17/i-spent-the-morning-with-the-apple-vision-pro/"
-"guid": "https://techcrunch.com/?p=2653646"
-"author": "Brian Heater"
-"thumbnail": ""
-"description": " <p>“Avatar” first arrived in theaters in 2009. It was a technological marvel that gave audiences one of the most immersive filmgoing experiences in the medium’s history. If contemporary online forums are to be believed, it also gave some theatergoers something entirely unexpected: depression. Not long after the film’s release, CNN reported on a strange new […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>“Avatar” first arrived in theaters in 2009. It was a technological marvel that gave audiences one of the most immersive filmgoing experiences in the medium’s history. If contemporary online forums are to be believed, it also gave some theatergoers something entirely unexpected: depression. Not long after the film’s release, CNN reported on a strange new […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Hardware"
-"Media &amp; Entertainment"
-"Apple"
-"apple vision pro"
-"Vision"
-"vision pro"
-"VR"
-"VR Headset"
-]
-}
-{
-"title": "Can Recraft’s foundational model for graphic design swerve the AI controversy?"
-"pubDate": "2024-01-18 00:00:08"
-"link": "https://techcrunch.com/2024/01/17/can-recrafts-foundational-model-for-graphic-design-swerve-the-ai-controversy/"
-"guid": "https://techcrunch.com/?p=2653593"
-"author": "Mike Butcher"
-"thumbnail": ""
-"description": " <p>Controversy continues to surround the world of AI-generated imagery, and even as AI-generated images used in elections became a source of concern this week at the World Economic Forum, startups continue to plow the new furrow of AI tools for creators. The latest is Recraft, an AI graphic design generator aimed at professionals, which has […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>Controversy continues to surround the world of AI-generated imagery, and even as AI-generated images used in elections became a source of concern this week at the World Economic Forum, startups continue to plow the new furrow of AI tools for creators. The latest is Recraft, an AI graphic design generator aimed at professionals, which has […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"AI"
-]
-}
-{
-"title": "Reencle teases a hungrier, quieter home composter — for a price"
-"pubDate": "2024-01-17 23:07:12"
-"link": "https://techcrunch.com/2024/01/17/reencle-teases-a-hungrier-quieter-home-composter-for-a-price/"
-"guid": "https://techcrunch.com/?p=2649675"
-"author": "Harri Weber"
-"thumbnail": ""
-"description": " <p>If the upcoming smart composter works as advertised, it'll help households reduce their greenhouse gas emissions from food waste, while generating nutrient-rich fertilizer for gardens.</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>If the upcoming smart composter works as advertised, it'll help households reduce their greenhouse gas emissions from food waste, while generating nutrient-rich fertilizer for gardens.</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Climate"
-"Gadgets"
-"CES"
-"CES 2024"
-"composting"
-]
-}
-{
-"title": "Land Moto accelerates its electric bike battery play with $3M infusion"
-"pubDate": "2024-01-17 21:42:31"
-"link": "https://techcrunch.com/2024/01/17/land-moto-accelerates-its-electric-bike-battery-play-with-3m-infusion/"
-"guid": "https://techcrunch.com/?p=2652676"
-"author": "Devin Coldewey"
-"thumbnail": ""
-"description": " <p>Cleveland-based electric motorcycle startup Land Moto is looking to diversify by powering up the battery design side of its tech, and has raised $3 million (on top of $7 million raised last summer) to do so in 2024. Land’s primary product is a striking electric motorbike called the District, which sits somewhat at the intersection […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>Cleveland-based electric motorcycle startup Land Moto is looking to diversify by powering up the battery design side of its tech, and has raised $3 million (on top of $7 million raised last summer) to do so in 2024. Land’s primary product is a striking electric motorbike called the District, which sits somewhat at the intersection […]</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Hardware"
-"Startups"
-"Transportation"
-"electric motorcyle"
-]
-}
-{
-"title": "I’m sorry but you owe me 27% because I said so"
-"pubDate": "2024-01-17 21:30:12"
-"link": "https://techcrunch.com/2024/01/17/im-sorry-but-you-owe-me-27-because-i-said-so/"
-"guid": "https://techcrunch.com/?p=2653218"
-"author": "Alex Wilhelm"
-"thumbnail": ""
-"description": " <p>This is a concept of user ownership that really rubs me the wrong way.</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"content": " <p>This is a concept of user ownership that really rubs me the wrong way.</p> <p>© 2023 TechCrunch. All rights reserved. For personal use only.</p> "
-"enclosure": {
-}
-"categories": [
-"Apps"
-"app-store"
-"Apple"
-"EC Consumer Applications"
-"EC Hardware"
-"The Exchange"
-]
-}
-]
+    "status": "ok",
+    "feed": {
+        "url": "https://techcrunch.com/feed/",
+        "title": "TechCrunch",
+        "link": "https://techcrunch.com/",
+        "author": "",
+        "description": "Startup and Technology News",
+        "image": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+    },
+    "items": [
+        {
+            "title": "Sundar Pichai warns Google staff more layoffs are coming",
+            "pubDate": "2024-01-18 04:23:02",
+            "link": "https://techcrunch.com/2024/01/17/sundar-pichai-warns-google-staff-more-layoffs-are-coming/",
+            "guid": "https://techcrunch.com/?p=2653751",
+            "author": "Ivan Mehta",
+            "thumbnail": "",
+            "description": "\n<p>After laying off over 1,000 workers across multiple divisions last week and cutting 100 jobs at YouTube, Google CEO Sundar Pichai sent a memo to its staff warning more layoffs are expected this year. Pichai’s memo said the company will have to make “tough choices” to meet its ambitious goals, as reported by The Verge. […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>After laying off over 1,000 workers across multiple divisions last week and cutting 100 jobs at YouTube, Google CEO Sundar Pichai sent a memo to its staff warning more layoffs are expected this year. Pichai’s memo said the company will have to make “tough choices” to meet its ambitious goals, as reported by The Verge. […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Enterprise",
+                "Alphabet",
+                "Google",
+                "Sundar Pichai"
+            ]
+        },
+        {
+            "title": "Astrobotic’s lunar lander will burn up in Earth’s atmosphere tomorrow",
+            "pubDate": "2024-01-18 03:00:37",
+            "link": "https://techcrunch.com/2024/01/17/astrobotics-lunar-lander-will-burn-up-in-earths-atmosphere-tomorrow/",
+            "guid": "https://techcrunch.com/?p=2653749",
+            "author": "Aria Alamalhodaei",
+            "thumbnail": "",
+            "description": "\n<p>Astrobotic’s lunar lander will be reentering Earth’s atmosphere over a remote part of the South Pacific Ocean tomorrow afternoon, bringing to a close the failed moon landing mission. The Peregrine lunar lander is expected to reenter around 4PM EST over an unpopulated stretch of ocean near Fiji, according to coordinates Astrobotic posted in a Wednesday […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>Astrobotic’s lunar lander will be reentering Earth’s atmosphere over a remote part of the South Pacific Ocean tomorrow afternoon, bringing to a close the failed moon landing mission. The Peregrine lunar lander is expected to reenter around 4PM EST over an unpopulated stretch of ocean near Fiji, according to coordinates Astrobotic posted in a Wednesday […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Space",
+                "astrobotic",
+                "clps",
+                "commercial lunar payload services",
+                "NASA",
+                "peregrine"
+            ]
+        },
+        {
+            "title": "Astroscale takes the wraps off its $25M orbital refueling craft for Space Force",
+            "pubDate": "2024-01-18 01:10:51",
+            "link": "https://techcrunch.com/2024/01/17/astroscale-takes-the-wraps-off-its-25m-orbital-refueling-craft-for-space-force/",
+            "guid": "https://techcrunch.com/?p=2653721",
+            "author": "Devin Coldewey",
+            "thumbnail": "",
+            "description": "\n<p>Orbital operations company Astroscale has revealed new details about its approach to refueling satellites in space, as part of a $25.5 million project exploring the concept with the Space Force. Their solution is a bit like a AAA truck traveling at 25,000 MPH. The concept of on-orbit servicing and repair is attractive to anyone who […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>Orbital operations company Astroscale has revealed new details about its approach to refueling satellites in space, as part of a $25.5 million project exploring the concept with the Space Force. Their solution is a bit like a AAA truck traveling at 25,000 MPH. The concept of on-orbit servicing and repair is attractive to anyone who […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Space",
+                "Startups",
+                "astroscale",
+                "isam",
+                "osam",
+                "Space Force"
+            ]
+        },
+        {
+            "title": "Unredacted Meta documents reveal ‘historical reluctance’ to protect children",
+            "pubDate": "2024-01-18 00:38:46",
+            "link": "https://techcrunch.com/2024/01/17/unredacted-meta-documents-reveal-historical-reluctance-to-protect-children-new-mexico-lawsuit/",
+            "guid": "https://techcrunch.com/?p=2653716",
+            "author": "Morgan Sung",
+            "thumbnail": "",
+            "description": "\n<p>Internal Meta documents about child safety have been unsealed as part of a lawsuit filed by the New Mexico Department of Justice against both Meta and its CEO, Mark Zuckerberg. The documents reveal that Meta not only intentionally marketed its messaging platforms to children, but also knew about the massive volume of inappropriate and sexually […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>Internal Meta documents about child safety have been unsealed as part of a lawsuit filed by the New Mexico Department of Justice against both Meta and its CEO, Mark Zuckerberg. The documents reveal that Meta not only intentionally marketed its messaging platforms to children, but also knew about the massive volume of inappropriate and sexually […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Apps",
+                "Social",
+                "child safety",
+                "lawsuit",
+                "Mark Zuckerberg",
+                "meta",
+                "meta lawsuit"
+            ]
+        },
+        {
+            "title": "International Battery Company powers up with $35M funding to bridge EV gap in India",
+            "pubDate": "2024-01-18 00:30:50",
+            "link": "https://techcrunch.com/2024/01/17/international-battery-company-funding-ev-india/",
+            "guid": "https://techcrunch.com/?p=2652335",
+            "author": "Jagmeet Singh",
+            "thumbnail": "",
+            "description": "\n<p>International Battery Company, a startup developing lithium-ion battery cells for electric vehicles, has raised $35 million as it plans to bridge the demand-supply gap in the growing EV market in India. Led by RTP Global, the pre-Series A round saw participation from Beenext, Veda VC and various strategic Korean and U.S. investors. It comes ahead […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>International Battery Company, a startup developing lithium-ion battery cells for electric vehicles, has raised $35 million as it plans to bridge the demand-supply gap in the growing EV market in India. Led by RTP Global, the pre-Series A round saw participation from Beenext, Veda VC and various strategic Korean and U.S. investors. It comes ahead […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Startups",
+                "Transportation",
+                "EV",
+                "Exclusive",
+                "india",
+                "International Battery Company",
+                "RTP Global"
+            ]
+        },
+        {
+            "title": "I spent the morning with the Apple Vision Pro",
+            "pubDate": "2024-01-18 00:08:06",
+            "link": "https://techcrunch.com/2024/01/17/i-spent-the-morning-with-the-apple-vision-pro/",
+            "guid": "https://techcrunch.com/?p=2653646",
+            "author": "Brian Heater",
+            "thumbnail": "",
+            "description": "\n<p>“Avatar” first arrived in theaters in 2009. It was a technological marvel that gave audiences one of the most immersive filmgoing experiences in the medium’s history. If contemporary online forums are to be believed, it also gave some theatergoers something entirely unexpected: depression. Not long after the film’s release, CNN reported on a strange new […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>“Avatar” first arrived in theaters in 2009. It was a technological marvel that gave audiences one of the most immersive filmgoing experiences in the medium’s history. If contemporary online forums are to be believed, it also gave some theatergoers something entirely unexpected: depression. Not long after the film’s release, CNN reported on a strange new […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Hardware",
+                "Media &amp; Entertainment",
+                "Apple",
+                "apple vision pro",
+                "Vision",
+                "vision pro",
+                "VR",
+                "VR Headset"
+            ]
+        },
+        {
+            "title": "Can Recraft’s foundational model for graphic design swerve the AI controversy?",
+            "pubDate": "2024-01-18 00:00:08",
+            "link": "https://techcrunch.com/2024/01/17/can-recrafts-foundational-model-for-graphic-design-swerve-the-ai-controversy/",
+            "guid": "https://techcrunch.com/?p=2653593",
+            "author": "Mike Butcher",
+            "thumbnail": "",
+            "description": "\n<p>Controversy continues to surround the world of AI-generated imagery, and even as AI-generated images used in elections became a source of concern this week at the World Economic Forum, startups continue to plow the new furrow of AI tools for creators. The latest is Recraft, an AI graphic design generator aimed at professionals, which has […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>Controversy continues to surround the world of AI-generated imagery, and even as AI-generated images used in elections became a source of concern this week at the World Economic Forum, startups continue to plow the new furrow of AI tools for creators. The latest is Recraft, an AI graphic design generator aimed at professionals, which has […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "AI"
+            ]
+        },
+        {
+            "title": "Reencle teases a hungrier, quieter home composter — for a price",
+            "pubDate": "2024-01-17 23:07:12",
+            "link": "https://techcrunch.com/2024/01/17/reencle-teases-a-hungrier-quieter-home-composter-for-a-price/",
+            "guid": "https://techcrunch.com/?p=2649675",
+            "author": "Harri Weber",
+            "thumbnail": "",
+            "description": "\n<p>If the upcoming smart composter works as advertised, it'll help households reduce their greenhouse gas emissions from food waste, while generating nutrient-rich fertilizer for gardens.</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>If the upcoming smart composter works as advertised, it'll help households reduce their greenhouse gas emissions from food waste, while generating nutrient-rich fertilizer for gardens.</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Climate",
+                "Gadgets",
+                "CES",
+                "CES 2024",
+                "composting"
+            ]
+        },
+        {
+            "title": "Land Moto accelerates its electric bike battery play with $3M infusion",
+            "pubDate": "2024-01-17 21:42:31",
+            "link": "https://techcrunch.com/2024/01/17/land-moto-accelerates-its-electric-bike-battery-play-with-3m-infusion/",
+            "guid": "https://techcrunch.com/?p=2652676",
+            "author": "Devin Coldewey",
+            "thumbnail": "",
+            "description": "\n<p>Cleveland-based electric motorcycle startup Land Moto is looking to diversify by powering up the battery design side of its tech, and has raised $3 million (on top of $7 million raised last summer) to do so in 2024. Land’s primary product is a striking electric motorbike called the District, which sits somewhat at the intersection […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>Cleveland-based electric motorcycle startup Land Moto is looking to diversify by powering up the battery design side of its tech, and has raised $3 million (on top of $7 million raised last summer) to do so in 2024. Land’s primary product is a striking electric motorbike called the District, which sits somewhat at the intersection […]</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Hardware",
+                "Startups",
+                "Transportation",
+                "electric motorcyle"
+            ]
+        },
+        {
+            "title": "I’m sorry but you owe me 27% because I said so",
+            "pubDate": "2024-01-17 21:30:12",
+            "link": "https://techcrunch.com/2024/01/17/im-sorry-but-you-owe-me-27-because-i-said-so/",
+            "guid": "https://techcrunch.com/?p=2653218",
+            "author": "Alex Wilhelm",
+            "thumbnail": "",
+            "description": "\n<p>This is a concept of user ownership that really rubs me the wrong way.</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "content": "\n<p>This is a concept of user ownership that really rubs me the wrong way.</p>\n<p>© 2023 TechCrunch. All rights reserved. For personal use only.</p>\n",
+            "enclosure": {},
+            "categories": [
+                "Apps",
+                "app-store",
+                "Apple",
+                "EC Consumer Applications",
+                "EC Hardware",
+                "The Exchange"
+            ]
+        }
+    ]
 }
